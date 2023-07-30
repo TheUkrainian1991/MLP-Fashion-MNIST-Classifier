@@ -8,4 +8,4 @@ Two blocks of two MLPs
 ### Classifier
 Mean feature mapping to 10 outputs using softmax
 ## Final Model
-Cross entropy loss was used to perfect the model. 88% test accuracy
+Cross entropy loss was used to optimize the model. 88% final test accuracy
